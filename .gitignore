@@ -9,3 +9,4 @@ generated_blog*
 # Virtual environments
 .venv
 .env
+output
